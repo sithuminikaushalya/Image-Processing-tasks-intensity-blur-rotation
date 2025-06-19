@@ -93,26 +93,4 @@ python Q4_Block_Averaging/q4_block_average.py
 
 ---
 
-## 📝 Notes
 
-* All scripts are designed to be **simple and automatic**.
-* No GUI or interactive interface is used.
-* Outputs are saved automatically in their respective folders.
-
----
-
-## 🔗 GitHub Repository
-
-(Upload the folder to a GitHub repository and paste the link here)
-
----
-
-## ✅ Submission Checklist
-
-* [x] All scripts tested and run without errors.
-* [x] Outputs saved in correct folders.
-* [x] Image used: `test_image.jpg`.
-* [x] Report (README.md) prepared.
-* [x] GitHub repository created.
-
----
